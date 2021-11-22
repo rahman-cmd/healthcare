@@ -1,0 +1,8 @@
+.header-style{
+    background: rgb(104, 77, 250);
+    background: linear-gradient(
+      0deg,
+      rgba(104, 77, 250, 1) 0%,
+      rgba(96, 31, 233, 1) 100%
+    );
+}

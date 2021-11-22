@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "img": "https://thegenius.co/dentistry/live/wp-content/uploads/2015/10/teeth-whiting.jpg",
+        "name": "Teeth Whitening",
+        "description": "Tooth whitening can make your teeth sparkling white and beautiful!",
+        "full_description": "Everyone wants a white teeth and healthy smile and Unfortunately, things don’t always go as planned, which explains why teeth whitening is such a popular procedure. Consectetur adipiscing elitivamus libero arcpretium innisiin feugiat faucibus sem mauris tortortorto one rutrum vitae duisitamet, Mauris sit amet laoreet est. "
+    },
+    {
+        "id": 2,
+        "img": "https://thegenius.co/dentistry/live/wp-content/uploads/2015/10/gum-treatment.jpg",
+        "name": "Gum Treatment",
+        "description": "Gum disease like gingivitis, periodontitis can cause you to lose teeth.",
+        "full_description": "Everyone wants a white teeth and healthy smile and Unfortunately, things don’t always go as planned, which explains why teeth whitening is such a popular procedure. Consectetur adipiscing elitivamus libero arcpretium innisiin feugiat faucibus sem mauris tortortorto one rutrum vitae duisitamet, Mauris sit amet laoreet est. Suspendisse ultricies ut nulla mollis molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nasceturs ultricies congue nunc."
+    },
+    {
+        "id": 3,
+        "img": "https://thegenius.co/dentistry/live/wp-content/uploads/2015/10/sleep-apena.jpg",
+        "name": "Sleep Apnea",
+        "description": "Sleep apnea is a potentially serious sleep disorder in which breathing repeatedly.!",
+        "full_description": "The main types of sleep apnea are Obstructive sleep apnea, the more common form that occurs when throat muscles relax Central sleep apnea, which occurs when your brain doesn't send proper signals to the muscles that control breathing Complex sleep apnea syndrome, also known as treatment-emergent central sleep apnea, which occurs when someone has both obstructive sleep apnea and central sleep apnea If you think you might have sleep apnea, see your doctor. Treatment can ease your symptoms and might help prevent heart problems and other complications."
+    },
+    {
+        "id": 4,
+        "img": "https://thegenius.co/dentistry/live/wp-content/uploads/2015/10/restore.jpg",
+        "name": "Restorations",
+        "description": "Tooth restorations are the various ways your dentist can replace missing teeth.",
+        "full_description": "Dental restorations are used to replace missing teeth, repair part of the tooth structure, improve the appearance of your natural teeth and to help the teeth function normally. There are various kinds of dental restorations made up of different types of material. Tooth restorations are performed to replace missing teeth, support the existing tooth structure, prevent surrounding teeth from shifting position, minimize loss of the supporting bone and cover poorly-appearing teeth."
+    },
+    {
+        "id": 5,
+        "img": "https://thegenius.co/dentistry/live/wp-content/uploads/2015/10/smile-treament.jpg",
+        "name": "Smile Design",
+        "description": "Smile Design, is a multi-use conceptual dental treatment.",
+        "full_description": "Don’t let dull or discolored teeth destroy your confidence in your smile. Instead, get a professional teeth whitening treatment at Smile Design Manhattan. Located in Midtown West, Smile Design Manhattan is one of New York City’s most trusted sources for exceptional teeth whitening treatments. Don’t wait any longer to get the smile you’ve always dreamed of. Schedule an appointment with Smile Design Manhattan today by calling the office or booking a consultation online."
+    },
+    {
+        "id": 6,
+        "img": "https://thegenius.co/dentistry/live/wp-content/uploads/2015/10/root-canal.jpg",
+        "name": "Root Canal",
+        "description": "A root canal is the anatomic space within the root of a tooth.",
+        "full_description": "Root canal treatment is a treatment sequence for the infected pulp of a tooth which is intended to result in the elimination of infection and the protection of the decontaminated tooth from future microbial invasion."
+    },
+    {
+        "id": 7,
+        "img": "https://thegenius.co/dentistry/live/wp-content/uploads/2015/10/implante.jpg",
+        "name": "Implant Dentistry",
+        "description": "Tooth restorations are the various ways your dentist can replace missing teeth.",
+        "full_description": "Complications and failures from dental implant surgeries are few and far between, but they do occur. Causes of implant failure include gum disease, insufficient jawbone, poor dental hygiene, and other medical conditions."
+    },
+    {
+        "id": 8,
+        "img": "https://thegenius.co/dentistry/live/wp-content/uploads/2015/10/consious-sedction.jpg",
+        "name": "Conscious Sedation",
+        "description": "During a procedure, conscious sedation lets you stay awake and aware.",
+        "full_description": "Conscious sedation is a combination of medicines to help you relax (a sedative) and to block pain (an anesthetic) during a medical or dental procedure. You will probably stay awake, but may not be able to speak."
+    },
+    {
+        "id": 9,
+        "img": "https://thegenius.co/dentistry/live/wp-content/uploads/2015/10/ortodo.jpg",
+        "name": "Orthodontics",
+        "description": "Orthodontics is the anatomic space within the root of a tooth.",
+        "full_description": "Orthodontics is a branch of dentistry that treats malocclusion, a condition in which the teeth are not correctly positioned when the mouth is closed. This results in an improper bite. An orthodontist specializes in making the teeth straight."
+    }
+]
